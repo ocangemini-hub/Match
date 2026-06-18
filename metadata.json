@@ -1,0 +1,6 @@
+{
+  "name": "DateVibe",
+  "description": "DateVibe is a vibrant dating social network that helps you find connections, schedule real dates, and chat locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
